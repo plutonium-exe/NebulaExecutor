@@ -1,5 +1,6 @@
 {
   "validKeys": [
+    // for viewers copy and paste the keys into exc.
     "G7mX2pZqW9aL8sVfT4dYbC3Nj",
     "K9vX3pLmQ7aZ2WbT8YfC4dN6J",
     "A3bT4nX7vY9pZ1kW5dQ2mL6R",
