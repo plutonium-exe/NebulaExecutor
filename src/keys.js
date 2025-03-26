@@ -11,4 +11,5 @@
     "Z1pM9N2tL7X4V5Q8kY3bF0J9W"
   ]
 }
-// if you are experiencing lag issues try another key for another server
+// if you are experiencing lag issues try another key for another server.
+// key system is azz ik. trust the process.
