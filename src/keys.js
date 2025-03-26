@@ -10,7 +10,7 @@
     "P1tD8V2yQ7Z6bX5kL9W3fN0aM",
     "D4yT7mL9V2kX6pJ0bQ8Y1fW3R",
     "Z1pM9N2tL7X4V5Q8kY3bF0J9W"
-  ]
+  ],
+  // if you are experiencing lag issues try another key for another server.
+  // key system is azz ik. trust the process.
 }
-// if you are experiencing lag issues try another key for another server.
-// key system is azz ik. trust the process.
